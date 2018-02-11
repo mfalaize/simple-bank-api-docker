@@ -1,0 +1,2 @@
+cherrypy>=14.0.0
+simple-bank-api~=0.0.1
